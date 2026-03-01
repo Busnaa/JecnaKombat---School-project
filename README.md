@@ -6,6 +6,8 @@
 - Two player characters with unique sprites and attacks.
 - Health and stamina mechanics for both players and enemies.
 
+## How to Download
+- In file "projektik.txt" is a link for a file download named "JecnaKombat"> When you unzip the folder you will ssee folder named build where is the app JecnaKombat. You click on it and you can start playing! 
 
 ## Controls
 
